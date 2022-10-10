@@ -36,6 +36,7 @@ section#login {
     border-radius: 20px;
     overflow: hidden;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.450);
+    transition: width 1s, height 1s;
 }
 
 section#login > div#imagem {
@@ -43,7 +44,7 @@ section#login > div#imagem {
     background: #5f2c82 url(../imagens/fundo.jpg) no-repeat;
     background-size: cover;
     height: 200px;
-    background-position: left bottom;
+    background-position: center center;
 }
 
 section > div#formulario {
