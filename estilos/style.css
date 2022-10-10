@@ -6,3 +6,40 @@ Verde: #49a09d
 Lilás: #5f2c82
 */
 
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+html, body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #5f2c82;
+}
+
+main {
+    margin-top: 100px;
+    
+}
+
+main h1 {
+    text-align: center;
+}
+
+main p {
+    text-align: justify;
+    text-indent: 10px;
+    padding: 10px;
+
+}
+
+section#login {
+    width: 90vw;
+    height: 60vw;
+    margin: auto;
+    background-color: white;
+    border-radius: 10px;
+}
+
+div#imagem {
+    
+}
