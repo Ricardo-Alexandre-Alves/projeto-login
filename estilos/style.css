@@ -44,10 +44,10 @@ section#login > div#imagem {
     background: #5f2c82 url(../imagens/fundo.jpg) no-repeat;
     background-size: cover;
     height: 200px;
-    background-position: center center;
+    background-position: left left;
 }
 
-section > div#formulario {
+section#login > div#formulario {
     display: block;
     padding: 10px;
 }
